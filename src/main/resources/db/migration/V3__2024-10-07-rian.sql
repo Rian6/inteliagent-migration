@@ -1,0 +1,2 @@
+alter table usuario
+add column data_espiracao_codigo_aprovacao DATETIME
