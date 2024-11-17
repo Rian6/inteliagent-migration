@@ -1,0 +1,1 @@
+ALTER TABLE sync_confirm MODIFY id INT AUTO_INCREMENT;
