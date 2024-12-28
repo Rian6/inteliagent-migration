@@ -1,0 +1,1 @@
+alter table visita add column sequencia NUMERIC(18)
